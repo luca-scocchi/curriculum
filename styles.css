@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  margin: 0 auto;
+}
+
+body {
+  color: #8968CD;
+  background-color: #4B0082;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.title-container {
+  font-size:30px;
+  background-color: #68228B;
+justify-content:center;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-weight: bold;
+ margin: 20px auto;
+ width:1000px
+  }
+
+h2 {
+  font-size:40px;
+  }
+p {
+  font-size: 25px
+}
+
+
+.container-1{
+  display: flex;
+    background-color: #EEEE00;
+}
+
+.text-container-1{
+
+ width: 900px;
+
+ margin-top: 45px;
+margin-left: 60px;
+}
+
+.liceobuonarroti{
+position: absolute;
+margin: 0;
+}
+
+
+
+.container-2{
+  display: flex;
+    background-color: #00B2EE;
+}
+
+.text-container-2{
+  width: 900px;
+
+  margin-top: 45px;
+ margin-left: 60px;
+}
+
+
+.container-3{
+  display: flex;
+  justify-content: space-around
+    background-color: #00C78C;
+}
+
+.text-container-3{
+ width: 900px;
+ margin-top: 45px;
+ margin-left: 60px;
+
+}
+
+
+
+
+.container-4{
+  display: flex;
+  justify-content: space-around;
+    background-color: #FF9912;
+}
+
+.text-container-4{
+  width: 900px;
+  margin-top: 45px;
+  margin-left: 0px;
+}
+
+
+
+
+.container-5{
+  display: flex;
+  justify-content: space-around;
+    background-color: #DC143C;
+}
+
+.text-container-5{
+  width: 900px;
+
+  margin-top: 45px;
+  margin-left: 0px;
+}
+
+
+.container-6{
+  display: flex;
+  justify-content: space-around;
+    background-color: #7FFFD4
+}
+.text-container-6{
+  width: 900px;
+
+  margin-top: 45px;
+ margin-left: 0px;
+}
+
+
+.container-7 {
+  display: flex;
+  background-color: yellow;
+}
